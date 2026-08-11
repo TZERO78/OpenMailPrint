@@ -206,3 +206,7 @@ a huge thank you for this excellent, battle-tested library.
 ## License
 
 [MIT](LICENSE)
+
+## AI-assisted development
+
+This project was developed with the assistance of generative AI tools. AI was used as a development tool for code generation, review, documentation, and problem solving. The project owner remains responsible for the design, testing, and published software.
